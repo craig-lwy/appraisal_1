@@ -35,7 +35,11 @@ Whether you are a potential employer, a fellow data enthusiast, or just passing 
 Check out the sections below to explore.
 
 - [Projects in Excel](projects-excel.md)
-- [Power BI Dashboards](#power-bi-dashboards) (##not working)
 
 ---
 
+## My reflections
+
+- [Reflections](reflections.md)
+
+---
