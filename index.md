@@ -4,7 +4,7 @@ Last Update: 01-Jun-2025
 
 # Welcome
 
-Hi, I am Craig — a budding data analyst with a background in accounting.
+Hi! I am Craig — a budding data analyst with a background in accounting.
 
 I created this site to share some of the projects that I have worked on, both professionally and in my spare time. You will also find a few thoughts and reflections I have had along the way as I learn and grow in this field.
 
@@ -34,7 +34,7 @@ Whether you are a potential employer, a fellow data enthusiast, or just passing 
 
 Check out the sections below to explore.
 
-- [Excel Projects](#excel-projects) (##not working)
+- [Projects in Excel](projects-excel.md)
 - [Power BI Dashboards](#power-bi-dashboards) (##not working)
 
 ---
