@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Home
 Last Update: 31-May-2025
 ---
 
-# 👋 Welcome
+# Welcome
 
 Hi, I'm Craig — a budding data analyst with a background in accounting.
 
@@ -16,7 +14,23 @@ Whether you're a potential employer, a fellow data enthusiast, or just passing t
 
 ---
 
-## 📂 My Projects
+## My Technical Skills
+
+| # | Proficiency | Technical Skill | Circumstance |
+|----------|----------|----------|----------|
+| 1 | Conversant | MS Office suite | Commercial use |
+| 2 | Conversant | MS Excel Power Query & Power Pivot | Commercial use |
+| 3 | Basic | SQL | Tutorial |
+| 4 | Basic | VBA | University Coursework |
+| 5 | Learning in progress | Python | - |
+| 6 | Learning in progress | MS Power BI | - |
+| 7 | In horizon | Predictive analytics | - |
+| 8 | In horizon | Statistical analytics | - |
+| 9 | In horizon | A/B testing | - |
+
+---
+
+## My Projects
 
 Check out the sections below to explore.
 
