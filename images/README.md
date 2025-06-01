@@ -1,1 +1,1 @@
-# This folder holds all photos used in my GitHub Pages.
+## This folder holds all photos used in my GitHub Pages.
