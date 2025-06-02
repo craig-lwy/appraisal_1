@@ -24,7 +24,7 @@ Whether you are a potential employer, a fellow data enthusiast, or just passing 
 
 Check out the sections below to explore.
 
-- [Projects in Excel](projects-excel.md)
+- [Projects in Excel](projects_excel.md)
 
 ---
 
