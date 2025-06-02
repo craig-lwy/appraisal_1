@@ -1,12 +1,10 @@
 ---
-Last update: 01-Jun-2025
+Last update: 02-Jun-2025
 ---
 
-# Excel Projects
+# Excel Projects Overview
 
 Here are some of my Excel-based projects:
-
-## Overview
 
 | Project Number | Project Type | Project Name | Tools Used | Project Page |
 |----------------|--------------|--------------|------------|------------------|
