@@ -16,7 +16,7 @@ If the above fails, please proceed to download with the below weblink:
 
 https://github.com/craig-lwy/my_portfolio_1/blob/4c7b002e21b0cb3ddb008476a711e7a45b99241f/projects_excel/E002_MCsimulation_v1.5.xlsx
 
-This is the **storytelling** page. The tehnical page is [here](/my_portfolio_1/projects_excel/E002_technicals.md).
+This is the **storytelling** page. The tehnical page is [here](./E002_technicals.md).
 
 
 ## Story Origin
