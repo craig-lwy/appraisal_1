@@ -27,7 +27,7 @@ Curious about how this hobby was adding up, I decided to model my spending behav
 
 ![E002_Graph_1](/my_portfolio_1/images/E002/E002_Graph_1.png)
 
-[E002_Graph_1](/my_portfolio_1/images/E002/E002_Graph_1.png)
+<sup>[E002_Graph_1](/my_portfolio_1/images/E002/E002_Graph_1.png)</sup>
 
 
 ---
@@ -37,7 +37,7 @@ Curious about how this hobby was adding up, I decided to model my spending behav
 
 ![E002_Graph_5](/my_portfolio_1/images/E002/E002_Graph_5.png)
 
-[E002_Graph_5](/my_portfolio_1/images/E002/E002_Graph_5.png)
+<sup>[E002_Graph_5](/my_portfolio_1/images/E002/E002_Graph_5.png)</sup>
 
 ### Let’s start with Graph 5 – the Box Plot:
 
@@ -58,11 +58,11 @@ Curious about how this hobby was adding up, I decided to model my spending behav
 
 ![E002_Graph_4](/my_portfolio_1/images/E002/E002_Graph_4.png)
 
+<sup>[E002_Graph_4](/my_portfolio_1/images/E002/E002_Graph_4.png)</sup>
+
 ![E002_Graph_6](/my_portfolio_1/images/E002/E002_Graph_6.png)
 
-[E002_Graph_4](/my_portfolio_1/images/E002/E002_Graph_4.png)
-
-[E002_Graph_6](/my_portfolio_1/images/E002/E002_Graph_6.png)
+<sup>[E002_Graph_6](/my_portfolio_1/images/E002/E002_Graph_6.png)</sup>
 
 - Graph 4 reveals a positively skewed (right-skewed) distribution, which, combined with [my recent spending habits](/my_portfolio_1/images/E002/E002_Graph_2.png), suggests that I am more likely to top up below the average amount.
 - Meanwhile, Graph 6 shows a 65.21% probability of my annual spending staying under HKD 40,040 — or roughly HKD 770 to HKD 910 per visit, depending on whether we go 52 or 44 weeks.
@@ -94,5 +94,5 @@ Now that I have estimated a reasonable annual spend, **the next question is: how
 
 
 ---
-[Back to previous page](/my_portfolio_1/projects_excel.md)
+[Back to previous page](../projects_excel.md)
 ---
