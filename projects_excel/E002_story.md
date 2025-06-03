@@ -10,13 +10,13 @@ Planned update: N/A
 ## Project Name
 Investigate through simulation to learn about the expected annual spend in topping up tokens in Jumpin Gym U.S.A. (美國冒險樂園)
 
-[Click to download my Excel workbook](projects_excel/E002_MCsimulation_v1.5.xlsx)
+[Click to download my Excel workbook](/projects_excel/E002_MCsimulation_v1.5.xlsx)
 
 If the above fails, please proceed to download with the below weblink:
 
 https://github.com/craig-lwy/my_portfolio_1/blob/4c7b002e21b0cb3ddb008476a711e7a45b99241f/projects_excel/E002_MCsimulation_v1.5.xlsx
 
-This is the **storytelling** page. The tehnical page is [here](projects_excel/E002_technicals.md).
+This is the **storytelling** page. The tehnical page is [here](/projects_excel/E002_technicals.md).
 
 
 ## Story Origin
@@ -25,7 +25,9 @@ Since Jan'2024 my sister and I found a fun weekly escape at Jumpin Gym U.S.A. if
 
 Curious about how this hobby was adding up, I decided to model my spending behavior with a Monte Carlo simulation. The goal is to estimate my expected annual spending and gain insights for personal budgeting — all while turning a casual pastime into a data-driven story.
 
-![E002_Graph_1](https://github.com/craig-lwy/my_portfolio_1/blob/6e9f20fb50823dcac95e2c4b4acb20532498f941/images/E002/E002_Graph_1.png)
+![E002_Graph_1](/images/E002/E002_Graph_1.png)
+
+[E002_Graph_1](/images/E002/E002_Graph_1.png)
 
 
 ---
@@ -34,6 +36,8 @@ Curious about how this hobby was adding up, I decided to model my spending behav
 ## Looking at the Results
 
 ![E002_Graph_5](/images/E002/E002_Graph_5.png)
+
+[E002_Graph_5](/images/E002/E002_Graph_5.png)
 
 ### Let’s start with Graph 5 – the Box Plot:
 
@@ -55,6 +59,10 @@ Curious about how this hobby was adding up, I decided to model my spending behav
 ![E002_Graph_4](/images/E002/E002_Graph_4.png)
 
 ![E002_Graph_6](/images/E002/E002_Graph_6.png)
+
+[E002_Graph_4](/images/E002/E002_Graph_4.png)
+
+[E002_Graph_6](/images/E002/E002_Graph_6.png)
 
 - Graph 4 reveals a positively skewed (right-skewed) distribution, which, combined with [my recent spending habits](images/E002/E002_Graph_2.png), suggests that I am more likely to top up below the average amount.
 - Meanwhile, Graph 6 shows a 65.21% probability of my annual spending staying under HKD 40,040 — or roughly HKD 770 to HKD 910 per visit, depending on whether we go 52 or 44 weeks.
