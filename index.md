@@ -28,7 +28,7 @@ Check out the sections below to explore.
 
 ---
 
-## My reflections
+## My Reflections
 
 - [Reflections](reflections.md)
 
