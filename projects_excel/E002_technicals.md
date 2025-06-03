@@ -6,5 +6,5 @@ Planned update: N/A
 empty
 
 ---
-[Back to the Excel Projects Overview page](projects_excel.md)
+[Back to Excel Projects Overview page](/projects_excel.md)
 ---
