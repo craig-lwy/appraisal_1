@@ -8,9 +8,9 @@ Here are some of my accounting projects:
 
 |  # | Project Name | Project Page |
 |----|--------------|--------------|
-| A001 | My Personal Books – Why I Do It | [Click](projects_accounting/A002.md) |
+| A001 | My Personal Books – Why I Do It | [Click](projects_accounting/A001.md) |
 
 
 ---
-[Back to previous page](index.md)
+[Back to Homepage](index.md)
 ---
