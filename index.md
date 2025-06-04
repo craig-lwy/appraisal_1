@@ -1,6 +1,8 @@
 ---
-Last Update: 02-Jun-2025
+Last Update: 04-Jun-2025
 ---
+
+<sup>index</sup>
 
 # Welcome!
 
@@ -24,6 +26,7 @@ Whether you are a potential employer, a fellow data enthusiast, or just passing 
 
 Check out the sections below to explore.
 
+- [Projects in Accounting](projects_accounting.md)
 - [Projects in Excel](projects_excel.md)
 
 ---
