@@ -4,11 +4,11 @@ Planned update: N/A
 ---
 
 
-# Monte Carlo simulation: My Expected Annual Spend in Jumpin Gym U.S.A. (美國冒險樂園)
+# Monte Carlo simulation
 
 
 ## Project Name
-Investigate through simulation to learn about the expected annual spend in topping up tokens in Jumpin Gym U.S.A. (美國冒險樂園)
+My Expected Annual Spend in Jumpin Gym U.S.A. (美國冒險樂園)
 
 [Click to download my Excel workbook](/my_portfolio_1/projects_excel/E002_MCsimulation_v1.5.xlsx)
 
@@ -19,7 +19,7 @@ https://github.com/craig-lwy/my_portfolio_1/blob/4c7b002e21b0cb3ddb008476a711e7a
 This is the **storytelling** page. The tehnical page is [here](./E002_technicals.md).
 
 
-## Story Origin
+## Narrative
 
 Since Jan'2024 my sister and I found a fun weekly escape at Jumpin Gym U.S.A. if our schedule permits. On high-energy days, we could easily top up our game tokens by as much as HKD 1,800. On slower days, it might be closer to HKD 390–460.
 
